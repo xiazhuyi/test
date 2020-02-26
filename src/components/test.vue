@@ -1,6 +1,6 @@
 <template>
   <div class="pink">
-    <h1>夏株奕喜欢{{message}}</h1>
+    <h1>夏株奕爱{{message}}</h1>
   </div>
 </template>
 
